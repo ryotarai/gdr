@@ -8,6 +8,7 @@ CLI tool for Google Drive
 
 ```
 $ gdr sheets values get --service-account-file '...' --range 'A1:C3' --sheet-id '...'
+{"majorDimension":"ROWS","range":"'Sheet1!A1:C3","values":[["1"]]}
 ```
 
 ### `sheets values update`
